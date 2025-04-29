@@ -15,7 +15,7 @@
         </div>
         <div class="basis-1/4"></div>
         <nav class="basis-1/2 flex flex-row items-center justify-end px-8 gap-4">
-          <NuxtLink to="/Lab3" class="jersey-font my-auto text-5xl text-[#83dbea] p-2 hover:text-[#49627e] hover:bg-[#aed4fd]">Lab 3 AAAAAAAAAAAA</NuxtLink>
+          <NuxtLink to="/Lab3" class="jersey-font my-auto text-5xl text-[#83dbea] p-2 hover:text-[#49627e] hover:bg-[#aed4fd]">Lab 3</NuxtLink>
           <NuxtLink to="/LogIn" class="jersey-font my-auto text-5xl text-[#83dbea] p-2 hover:text-[#49627e] hover:bg-[#aed4fd]">Log In</NuxtLink>
           <NuxtLink to="/LogOut" class="jersey-font my-auto text-5xl text-[#83dbea] p-2 hover:text-[#49627e] hover:bg-[#aed4fd]">Log Out</NuxtLink>
         </nav>
